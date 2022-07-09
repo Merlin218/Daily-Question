@@ -11,7 +11,7 @@
 1. Test。单元测试。
 1. Preview。生成一个供测试人员进行检查的网址。
 
-由于，Preview 是一个较为复杂的流程，留在以后篇章详解，今天先来说一下 Lint/Preview。
+由于，Preview 是一个较为复杂的流程，留在以后篇章详解，今天先来说一下 Lint/Test。
 
 我们假设一个极其简单的 Git Workflow 场景。
 
